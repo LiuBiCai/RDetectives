@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "RDetectives", "RDetectives\RDetectives.rxproj", "{3D6C00B6-80E0-4EFA-886E-45DE7C04B474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6C00B6-80E0-4EFA-886E-45DE7C04B474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6C00B6-80E0-4EFA-886E-45DE7C04B474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6C00B6-80E0-4EFA-886E-45DE7C04B474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6C00B6-80E0-4EFA-886E-45DE7C04B474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4A9779-5F9C-40A5-8497-B69A77143AB3}
+	EndGlobalSection
+EndGlobal
